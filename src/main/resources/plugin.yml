@@ -1,0 +1,6 @@
+name: RIP
+version: '${project.version}'
+main: me.cosmic.Main
+api-version: 1.18
+authors: [ CosmicPvP ]
+description: This is a trial plugin for DR
